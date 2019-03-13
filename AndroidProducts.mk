@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_land.mk
+    $(LOCAL_DIR)/potato_land.mk
